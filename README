@@ -1,7 +1,1 @@
-echo "# ideal-octo-waffle" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git branch -M main 
-git remote add origin https://github.com/yang20232014/ideal-octo-waffle.git
- git push -u origin main
+
